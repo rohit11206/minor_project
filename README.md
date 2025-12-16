@@ -1,4 +1,4 @@
-# AI-Powered Smart Traffic Management System
+`# AI-Powered Smart Traffic Management System
 
 ## Overview
 
@@ -337,5 +337,7 @@ This project is developed for research and educational purposes.
 
 Developed as part of a smart traffic management research project.
 
-#   m i n o r _ p r o j e c t -  
+#   m i n o r _ p r o j e c t - 
+ `
+
  
