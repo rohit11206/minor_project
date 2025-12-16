@@ -1,0 +1,18 @@
+# Ignore all video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore processed videos
+traffic-management/backend/processed/
+
+# Ignore uploaded videos
+traffic-management/backend/uploads/
+
+# Ignore dist build
+traffic-management/dist/
+
+# Node modules (in case)
+traffic-management/node_modules/
+traffic-management/backend/node_modules/
